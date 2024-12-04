@@ -6,7 +6,7 @@ public class Database {
 
     private String user = "root";
     private String password = "";
-    private String url = "jdbc:mysql://localhost/carrentalsystem";
+    private String url = "jdbc:mysql://localhost/";
     private Statement statement;
 
     public Database() {
