@@ -30,3 +30,6 @@ catalog.
 returnDate.
 • Methods should handle the process of borrowing and returning books,
 updating availability status.
+
+
+5.Database Connection Class
